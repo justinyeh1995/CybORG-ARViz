@@ -1,10 +1,14 @@
 # iOS App for Visualizing Network Simulation and Cyber Operations Research Gym (CybORG) Interaction
 
-## Setup Instructions
+## Motivation
+
+## Quick Start
+
+### Setup Instructions
 1. Download Xcode
 2. Clone the repository: `git clone https://github.com/justinyeh1995/CybORG-ARViz.git`
  
-## Running the App
+### Running the App
 To run the app on your device, follow these steps:
 
 1. Open the project in Xcode.
@@ -204,6 +208,10 @@ classDiagram
     NetworkGraph *-- Node
     NetworkGraph *-- Link
 ```
+
+## Usage
+
+## Contributing
 
 ## Referneces
 
